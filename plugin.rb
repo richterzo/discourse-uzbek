@@ -2,7 +2,7 @@
 # about: Adds a new locale for formal German
 # version: 0.1
 # authors: Terzaghi Riccardo
-# url: https://github.com/gschlager/discourse-german-formal-locale
+# url: https://github.com/richterzo/discourse-uzbek
 
 register_locale(
     "uz",
