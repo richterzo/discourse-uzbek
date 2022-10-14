@@ -1,6 +1,6 @@
 # discourse-uzbek-locale
 
-This plugin adds a formal version of German as a new locale to Discourse.
+This plugin adds a version of Uzbek as a new locale to Discourse.
 
 ## Installation
 
@@ -10,7 +10,7 @@ as the plugin command.
 
 ## Usage
 
-You can select the locale as Uzbek”.
+You can select the locale as "Uzbek”.
 
 ## Update translations
 
