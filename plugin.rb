@@ -9,7 +9,4 @@ register_locale(
     name: "Uzbek",
     nativeName: "Ўзбек",
     fallbackLocale: "en_GB"),
-    plural: {
-    keys: [:one, :other],
-    rule: lambda { |n| n == 1 ? :one : :other }
   }
