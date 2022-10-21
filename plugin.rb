@@ -8,5 +8,5 @@ register_locale(
     "uz",
     name: "Uzbek",
     nativeName: "Ўзбек",
-    fallbackLocale: "en_GB"),
+    fallbackLocale: "en_GB")
   }
