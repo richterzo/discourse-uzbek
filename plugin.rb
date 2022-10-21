@@ -1,4 +1,4 @@
-)# name: discourse-german-formal-locale
+# name: discourse-german-formal-locale
 # about: Adds a new locale for formal German
 # version: 0.1
 # authors: Terzaghi Riccardo
