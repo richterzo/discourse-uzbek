@@ -1,5 +1,5 @@
-# name: discourse-german-formal-locale
-# about: Adds a new locale for formal German
+# name: discourse-uz--locale
+# about: Adds a new locale for formal Uzbek
 # version: 0.1
 # authors: Terzaghi Riccardo
 # url: https://github.com/richterzo/discourse-uzbek
