@@ -1,4 +1,4 @@
-# name: discourse-uz--locale
+# name: discourse-uz-locale
 # about: Adds a new locale for Uzbek
 # version: 0.1
 # authors: Terzaghi Riccardo
